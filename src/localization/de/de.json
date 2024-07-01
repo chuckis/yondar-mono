@@ -3,6 +3,10 @@
     "defaultMessage": "You can publish places on a decentralized map for the world to see!",
     "description": "A1"
   },
+  "expl": {
+    "defaultMessage": "Tippen Sie einfach auf die Karte 🗺️ und drücken Sie diese Taste:",
+    "description": "explanation"
+  },
   "a10": {
     "defaultMessage": "It's all anonymous 🎭 unless you want to fill out your profile.",
     "description": "A10"
@@ -172,4 +176,3 @@
     "description": "Q9"
   }
 }
-
